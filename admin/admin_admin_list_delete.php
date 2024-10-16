@@ -5,7 +5,7 @@
     {
         $unique = $_POST['deletesend'];
 
-        $sql = "DELETE FROM admin WHERE id = $unique ";
+        $sql = "DELETE FROM admin  WHERE id = $unique ";
         $result = mysqli_query($conn, $sql);
     }
 ?>

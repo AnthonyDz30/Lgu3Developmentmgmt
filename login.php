@@ -74,6 +74,9 @@
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <!-----style----->
     <link rel="stylesheet" href="assets/css/style.css">
+    <!--icon logo-->
+    <link rel="shortcut icon" href="./assets/image/Unified-LGU-3-LOGO.png" type="image/x-icon">
+
     <title>Login</title>
 </head>
 <body>

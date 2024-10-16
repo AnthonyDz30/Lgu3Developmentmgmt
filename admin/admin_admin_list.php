@@ -343,7 +343,7 @@ include('../admin/assets/inc/footer.php');
     function deleteuser(deleteid)
     {
         $.ajax({
-            url:"admin_user_list_delete.php",
+            url:"admin_admin_list_delete.php",
             type:'post',
             data:{
                 deletesend:deleteid
